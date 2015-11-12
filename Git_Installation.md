@@ -9,6 +9,10 @@ Preparation for NTU Train Course of R Project Lecture
 * 程式碼不會歪腰
 * 講義內容會持續更新, 歡迎follow, fork, pull-request
 
+### GitHub Account
+
+到[GitHub](https://github.com/)申請一組帳戶
+
 ### GitHub Desktop
 
 [GitHub Desktop](https://desktop.github.com/)
