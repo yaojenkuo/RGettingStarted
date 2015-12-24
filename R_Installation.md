@@ -5,7 +5,16 @@ Preparation for NTU Train Course of R Project Lecture
 
 ### R
 
-從[CRAN](http://cran.r-project.org)下載R。
+依照您的OS從[CRAN](http://cran.r-project.org)下載R。
+![依照OS下載R](/screenshots/download.jpg)
+
+以下我們以Windows OS的畫面進行示範：
+
+* 點選install R for the first time
+![install R for the first time](/screenshots/installR.jpg)
+
+* 點選Download R 3.2.3 for Windows
+![download R](/screenshots/downloadLink.jpg)
 
 ### RStudio
 
@@ -18,26 +27,5 @@ Preparation for NTU Train Course of R Project Lecture
 * 本課程的作業繳交請使用GitHub
 * 程式碼不會歪腰
 * 講義內容會持續更新, 歡迎follow, fork, pull-request
-
-### GitHub Desktop
-
-[GitHub Desktop](https://desktop.github.com/)
-
-### 設定步驟
-
-* 開啟Git Shell
-* 告訴Git你的名字
-
-```
-git config --global user.name "YOUR NAME"
-```
-
-* 告訴Git你的電子信箱
-
-```
-git config --global user.email "YOUR EMAIL ADDRESS"
-```
-
-大功告成囉!
 
 &copy; Tony Yao-Jen Kuo 2015

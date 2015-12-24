@@ -20,7 +20,7 @@ Preparation for NTU Train Course of R Project Lecture
 ### 設定步驟
 
 * 開啟Git Shell
-* 告訴Git你的名字
+* 告訴Git你的帳戶
 
 ```
 git config --global user.name "YOUR NAME"
