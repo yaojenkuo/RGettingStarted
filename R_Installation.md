@@ -16,12 +16,10 @@ Preparation for NTU Train Course of R Project Lecture
 * 點選Download R 3.2.3 for Windows
 ![download R](/screenshots/downloadLink.jpg)
 
-* 完成R安裝!
-
 ### RStudio
 
 我們使用[RStudio](https://www.rstudio.com/)做為我們的IDE(Integrated Development Environment)。
 
-* 下載[RStudio Desktop]RStudio Desktop(https://www.rstudio.com/products/rstudio/download/)
+* 下載[RStudio Desktop](https://www.rstudio.com/products/rstudio/download/)
 
 &copy; Tony Yao-Jen Kuo 2015
