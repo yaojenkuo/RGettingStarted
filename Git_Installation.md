@@ -38,24 +38,29 @@ git config --global user.email "YOUR EMAIL ADDRESS"
 
 * Fork on GitHub
 
-[課程講義的Repository](https://github.com/yaojenkuo/NTUTrainRL1)
+至[課程講義的Repository](https://github.com/yaojenkuo/NTUTrainRL1)頁面按Fork
 
 ![Fork on GitHub](screenshots/forkOnGitHub.jpg)
 
 * Clone on Git Shell
 
+到本機端將Forked的Repository複製回喜好的路徑
+
 ```
 cd c:/...("YOUR DESIRED LOCATION")
-git clone https://github.com/yaojenkuo/NTUTrainRL1
+git clone https://github.com/"YOUR NAME"/NTUTrainRL1
 ```
 
-### Authentication
+### Authentication(optional)
 
 * Connecting over HTTPS (recommended)
+
 ```
 [Caching your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git/)
 ```
+
 * Connecting over SSH
+
 ```
 [Generating SSH keys](https://help.github.com/articles/generating-ssh-keys/)
 ```
