@@ -15,7 +15,7 @@ Preparation for NTU Train Course of R Project Lecture
 
 ### GitHub Desktop
 
-[GitHub Desktop](https://desktop.github.com/)
+下載[GitHub Desktop](https://desktop.github.com/)
 
 ### 設定步驟
 
