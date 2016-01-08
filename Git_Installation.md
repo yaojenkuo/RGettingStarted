@@ -55,14 +55,10 @@ git clone https://github.com/"YOUR NAME"/NTUTrainRL1
 
 * Connecting over HTTPS (recommended)
 
-```
-[Caching your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git/)
-```
+參照[Caching your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git/)
 
 * Connecting over SSH
 
-```
-[Generating SSH keys](https://help.github.com/articles/generating-ssh-keys/)
-```
+參照[Generating SSH keys](https://help.github.com/articles/generating-ssh-keys/)
 
 &copy; Tony Yao-Jen Kuo 2015
