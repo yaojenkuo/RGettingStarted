@@ -34,4 +34,30 @@ git config --global user.email "YOUR EMAIL ADDRESS"
 
 大功告成囉!
 
+### 複製講義Repository
+
+* Fork on GitHub
+
+[課程講義的Repository](https://github.com/yaojenkuo/NTUTrainRL1)
+
+![Fork on GitHub](screenshots/forkOnGitHub.jpg)
+
+* Clone on Git Shell
+
+```
+cd c:/...("YOUR DESIRED LOCATION")
+git clone https://github.com/yaojenkuo/NTUTrainRL1
+```
+
+### Authentication
+
+* Connecting over HTTPS (recommended)
+```
+[Caching your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git/)
+```
+* Connecting over SSH
+```
+[Generating SSH keys](https://help.github.com/articles/generating-ssh-keys/)
+```
+
 &copy; Tony Yao-Jen Kuo 2015
