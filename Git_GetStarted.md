@@ -31,12 +31,15 @@ git config --list
   ```
 ### 執行第一個Commit與Push
 
-* 在本機端的資料庫中新增一個HW1.R檔案
-* `git add .`
-* `git commit -m "first commit"`
-* `git push`
-
-會要求你輸入使用者名稱與email進行認證，如果你不想要每次push都要輸入，你有兩種Authentication方式。
+* 在本機端的資料夾中新增一個HW1.R檔案
+* 開啟Git Shell然後cd到本機端資料夾，依序輸入：
+  ```
+  git add .
+  git commit -m "first commit"
+  git push
+  ```
+  
+Git會要求你輸入使用者名稱與email進行認證，如果你不想要每次push都要輸入，你有兩種Authentication方式。
   
 ### Authentication(optional)
 
