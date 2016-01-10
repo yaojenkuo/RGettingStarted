@@ -61,4 +61,10 @@ git clone https://github.com/"YOUR NAME"/NTUTrainRL1
 
 參照[Generating SSH keys](https://help.github.com/articles/generating-ssh-keys/)
 
+## Git學習資源(optional)
+
+* [30天精通Git版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+* [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
+* [Codecademy - Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+
 &copy; Tony Yao-Jen Kuo 2015
