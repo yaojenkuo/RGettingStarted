@@ -9,10 +9,10 @@ https://github.com/yaojenkuo/RGettingStarted/blob/master/R_Installation.md
 ### Git
 https://github.com/yaojenkuo/RGettingStarted/blob/master/Git_Installation.md
 
-## Getting Started with R
+### Getting Started with R
 https://github.com/yaojenkuo/RGettingStarted/blob/master/R_GetStarted.md
 
-## Getting Started with Git
+### Getting Started with Git
 https://github.com/yaojenkuo/RGettingStarted/blob/master/Git_GetStarted.md
 
 &copy; Tony Yao-Jen Kuo 2015
