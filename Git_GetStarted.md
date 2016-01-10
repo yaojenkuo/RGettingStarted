@@ -33,6 +33,7 @@ git config --list
 
 * 在本機端的資料夾中新增一個HW1.R檔案
 * 開啟Git Shell然後cd到本機端資料夾，依序輸入：
+
   ```
   git add .
   git commit -m "first commit"
