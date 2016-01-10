@@ -40,7 +40,7 @@ git config --list
   git push
   ```
   
-Git會要求你輸入使用者名稱與email進行認證，如果你不想要每次push都要輸入，你有兩種Authentication方式。
+Git會要求你輸入使用者名稱與密碼進行認證，如果你不想要每次push都要輸入，你有兩種Authentication方式。
   
 ### Authentication(optional)
 
