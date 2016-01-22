@@ -36,11 +36,11 @@ git config --global user.email "YOUR EMAIL ADDRESS"
 
 ### 複製講義Repository
 
-* Fork on GitHub
+* Find on GitHub
 
-至[課程講義的Repository](https://github.com/yaojenkuo/NTUTrainRL1)頁面按Fork
+[R語言玩資料課程講義的Repository](https://github.com/yaojenkuo/NTUTrainRL1)
 
-![Fork on GitHub](screenshots/forkOnGitHub.jpg)
+[R語言玩視覺化課程講義的Repository](https://github.com/yaojenkuo/NTUTrainRL1)
 
 * Clone on Git Shell
 
@@ -49,6 +49,7 @@ git config --global user.email "YOUR EMAIL ADDRESS"
 ```
 cd c:/...("YOUR DESIRED LOCATION")
 git clone https://github.com/"YOUR NAME"/NTUTrainRL1
+git clone https://github.com/"YOUR NAME"/NTUTrainRL2
 ```
 
 &copy; Tony Yao-Jen Kuo 2015
