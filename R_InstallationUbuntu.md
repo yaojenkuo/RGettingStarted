@@ -71,6 +71,14 @@ sudo apt-get install libjpeg62
 sudo dpkg -i rstudio-0.99.893-amd64.deb
 ```
 
+- 啟動RStudio
+
+```
+rstudio
+```
+
+大功告成囉!
+
 ## 參考資料
 - [CRAN](https://cran.r-project.org/)
 - [RStudio](https://www.rstudio.com/products/rstudio/download/)
