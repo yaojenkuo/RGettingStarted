@@ -17,7 +17,7 @@ sudo vim /etc/apt/sources.list
 - 在/etc/apt/sources.list文件的最下方加入CRAN Mirror的entry(按i可以寫入文字):
 
 ```
-deb http://cran.csie.ntu.edu.tw/bin/linux/ubunmtu trusty/
+deb http://cran.csie.ntu.edu.tw/bin/linux/ubuntu trusty/
 ```
 
 ![sourceList1](screenshots/sourceList1.png)
